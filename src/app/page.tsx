@@ -10,7 +10,7 @@ export default function Home() {
           <h1 className="text-[48px] font-bold font-serif leading-tight text-gray-800">
             IMPECCABLE CRAFTSMANSHIP AND FINESSE
           </h1>
-          <p className="text-[24px] max-w-[600px] mt-6 text-gray-600 font-serif leading-relaxed">
+          <p className="text-[24px]w-[600px] mt-6 text-gray-600 font-serif leading-relaxed">
             An example of intricate workmanship and detail, elegant necklaces
             and long and short chains form a part of our desirable collection.
           </p>
